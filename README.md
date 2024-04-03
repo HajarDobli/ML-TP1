@@ -18,5 +18,5 @@ To install and set up the chatbot locally, follow these steps:
 
 ## Contributions
 
-Contributions to this project are welcome! If you find any issues or have ideas for improvements, please feel free to open an issue or submit a pull request.
+Contributions to this project are welcome! If you find any issues or have ideas for improvements.
 
